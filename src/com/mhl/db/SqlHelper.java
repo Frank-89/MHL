@@ -12,8 +12,8 @@ public class SqlHelper {
 
 	String driver = "com.mysql.jdbc.Driver";
 	String url = "jdbc:mysql://localhost/RestaurantDB?useUnicode=true&characterEncoding=utf-8&useSSL=false";
-	String user = "wuhaoyu";
-	String passwd = "20160626";
+	String user = "root";
+	String passwd = "root";
 	int sum = 0;
 
 	public SqlHelper() {
